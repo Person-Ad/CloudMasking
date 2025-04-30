@@ -1,0 +1,4 @@
+--- Model Complexity ---
+Input Size: (1, 4, 512, 512)
+# Operations: 73.6944 GOps
+# Parameters: 26.6807 M
